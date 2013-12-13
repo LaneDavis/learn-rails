@@ -1,0 +1,3 @@
+This site was made by neophyte developer Lane Davis in December of 2013
+
+I followed the "Learn Ruby on Rails" tutorial by Daniel Kehoe.
